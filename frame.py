@@ -1,4 +1,5 @@
 import numpy as np
+import main
 
 import cv2
 cap = cv2.VideoCapture(0)
