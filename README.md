@@ -3,6 +3,6 @@ A tool to create simple, customizable QRCode images. You can add any text entry 
 
 The QRCode program is being updated to include automated QRCode-Scanner search via your webcam for the next major release. 
 
-Soon you will not only be able to create and customize your own generated QRCodes, but also use the same program to allow for automated reverse searches of QRCodes you present to your webcam through the program.
+Soon you will not only be able to create and customize your own generated QRCodes, but also use the same program to allow for automated searches of QRCodes you present and scan with your webcam through the program.
 
 **Work in Progress**
